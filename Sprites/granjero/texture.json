@@ -1,0 +1,480 @@
+{
+  "frames": {
+    "Back/tile011.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 54,
+        "h": 89
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 47,
+        "y": 26,
+        "w": 54,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 140,
+        "h": 142
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Right/tile017.png": {
+      "frame": {
+        "x": 54,
+        "y": 0,
+        "w": 54,
+        "h": 89
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 47,
+        "y": 26,
+        "w": 54,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 140,
+        "h": 141
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Back/tile008.png": {
+      "frame": {
+        "x": 108,
+        "y": 0,
+        "w": 53,
+        "h": 89
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 48,
+        "y": 26,
+        "w": 53,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 142,
+        "h": 142
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Front/tile002.png": {
+      "frame": {
+        "x": 161,
+        "y": 0,
+        "w": 53,
+        "h": 89
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 44,
+        "y": 26,
+        "w": 53,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 142,
+        "h": 142
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Front/tile005.png": {
+      "frame": {
+        "x": 214,
+        "y": 0,
+        "w": 53,
+        "h": 89
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 43,
+        "y": 26,
+        "w": 53,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 140,
+        "h": 142
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Right/tile014.png": {
+      "frame": {
+        "x": 267,
+        "y": 0,
+        "w": 53,
+        "h": 89
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 48,
+        "y": 26,
+        "w": 53,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 142,
+        "h": 141
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Right/tile012.png": {
+      "frame": {
+        "x": 320,
+        "y": 0,
+        "w": 53,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 49,
+        "y": 30,
+        "w": 53,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 142,
+        "h": 141
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Right/tile013.png": {
+      "frame": {
+        "x": 373,
+        "y": 0,
+        "w": 53,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 48,
+        "y": 30,
+        "w": 53,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 142,
+        "h": 141
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Right/tile015.png": {
+      "frame": {
+        "x": 426,
+        "y": 0,
+        "w": 53,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 48,
+        "y": 30,
+        "w": 53,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 142,
+        "h": 141
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Right/tile016.png": {
+      "frame": {
+        "x": 479,
+        "y": 0,
+        "w": 53,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 47,
+        "y": 30,
+        "w": 53,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 142,
+        "h": 141
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Back/tile006.png": {
+      "frame": {
+        "x": 532,
+        "y": 0,
+        "w": 53,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 49,
+        "y": 31,
+        "w": 53,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 142,
+        "h": 142
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Back/tile007.png": {
+      "frame": {
+        "x": 585,
+        "y": 0,
+        "w": 53,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 48,
+        "y": 31,
+        "w": 53,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 142,
+        "h": 142
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Back/tile009.png": {
+      "frame": {
+        "x": 638,
+        "y": 0,
+        "w": 53,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 48,
+        "y": 31,
+        "w": 53,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 142,
+        "h": 142
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Back/tile010.png": {
+      "frame": {
+        "x": 691,
+        "y": 0,
+        "w": 53,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 47,
+        "y": 31,
+        "w": 53,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 142,
+        "h": 142
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Front/tile000.png": {
+      "frame": {
+        "x": 744,
+        "y": 0,
+        "w": 53,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 44,
+        "y": 31,
+        "w": 53,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 142,
+        "h": 142
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Front/tile001.png": {
+      "frame": {
+        "x": 797,
+        "y": 0,
+        "w": 53,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 44,
+        "y": 31,
+        "w": 53,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 142,
+        "h": 142
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Front/tile003.png": {
+      "frame": {
+        "x": 850,
+        "y": 0,
+        "w": 53,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 43,
+        "y": 31,
+        "w": 53,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 142,
+        "h": 142
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Front/tile004.png": {
+      "frame": {
+        "x": 903,
+        "y": 0,
+        "w": 53,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 43,
+        "y": 31,
+        "w": 53,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 142,
+        "h": 142
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "animations": {
+    "front": [
+      "Front/tile000.png",
+      "Front/tile001.png",
+      "Front/tile002.png",
+      "Front/tile003.png",
+      "Front/tile004.png",
+      "Front/tile005.png"
+    ],
+    "back": [
+      "Back/tile006.png",
+      "Back/tile007.png",
+      "Back/tile008.png",
+      "Back/tile009.png",
+      "Back/tile010.png",
+      "Back/tile011.png"
+    ],
+    "left": [
+      "Right/tile012.png",
+      "Right/tile013.png",
+      "Right/tile014.png",
+      "Right/tile015.png",
+      "Right/tile016.png",
+      "Right/tile017.png"
+    ],"right": [
+      "Right/tile012.png",
+      "Right/tile013.png",
+      "Right/tile014.png",
+      "Right/tile015.png",
+      "Right/tile016.png",
+      "Right/tile017.png"
+    ]
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "texture.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1024,
+      "h": 128
+    },
+    "scale": 1
+  }
+}

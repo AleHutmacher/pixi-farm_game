@@ -1,0 +1,40 @@
+{
+    "bundles": [
+       {
+          "name": "player-bundle",
+          "assets": [
+             {
+                "alias": "character",
+                "src": "Sprites/granjero/texture.json"
+             }
+          ]
+       },
+       {
+         "name": "sheep-bundle",
+         "assets":[
+            {
+               "alias": "sheep",
+               "src": "Sprites/Ovejas/texture.json" 
+            }
+         ]
+       },
+       {
+         "name": "bakground-bundle",
+         "assets":[
+            {
+               "alias": "background",
+               "src": "./Sprites/background/FondoPasto.png"
+            }
+         ]
+       },
+       {
+         "name": "farm-bundle",
+         "assets":[
+            {
+               "alias": "farm",
+               "src": "Sprites/granja.png"
+            }
+         ]
+       }
+    ]
+ }
